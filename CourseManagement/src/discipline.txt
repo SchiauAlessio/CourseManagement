@@ -1,0 +1,6 @@
+1,CSA
+2,CL
+3,FP
+4,Analysis
+5,Algebra
+6,C Programming

@@ -1,0 +1,11 @@
+1,Cosmin Semenciuc
+2,Popa Andrei
+3,Serban George
+4,Silaschi Iasmina
+5,Silasi Marius
+6,Socaciu Serafim
+7,Spinu Valentin
+8,Stan Ioana
+9,Stanciu Catalin
+10,Stef Eduard
+11,guy that is failing
